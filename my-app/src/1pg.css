@@ -1,0 +1,42 @@
+.disigne{
+    position:absolute;
+    margin-top: 1%;
+    margin-left: 7%;
+    display: flex;
+}
+
+
+
+
+.designe_number_two{
+    position: relative;
+    transform: scale(1.1);
+
+}
+
+
+
+.Zarplata{
+    position:absolute;
+    margin-left: 21%;
+    margin-top: 1%;
+    display: flex;
+}
+
+
+
+.block{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 7%;
+    display: flex;
+}
+
+
+.buttonchik{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 55%;
+    display: flex;
+
+}
