@@ -5,9 +5,9 @@
 # Запуск 
 1) Откройте командную строку
 2) Введите последовательность команд:
-   git clone https://github.com/Lev4213/Practice1 && cd Practice1
-   docker compose build
-   docker compose up
+   <br/>git clone https://github.com/Lev4213/Practice1 && cd Practice1
+   <br/>docker compose build
+   <br/>docker compose up
 3) Откройте браузер и введите в адресную строку http://localhost:3000
 4) Перейдите на страницу "Загрузка вакансий", введите параметры для парсинга и нажмите "Загрузка вакансий"
 5) Подождите некоторое время, а затем перейдите на страницу "Фильтр вакансий".На ней вы увидите список подходящих под ваши параметры вакансий.
