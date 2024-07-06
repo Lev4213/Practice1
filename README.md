@@ -8,8 +8,7 @@
    <br/>git clone https://github.com/Lev4213/Practice1 && cd Practice1
    <br/>docker compose build
    <br/>docker compose up
-   
-   <br/>Если выдаёт ошибку,то введите эту команду вместо предыдущей: git clone https://github.com/Lev4213/Practice1.git && cd Practice1
+   <br/>Если выдаёт ошибку,то введите эту команду вместо первой: git clone https://github.com/Lev4213/Practice1.git && cd Practice1
    
 4) Откройте браузер и введите в адресную строку http://localhost:3000
 5) Перейдите на страницу "Загрузить вакансии", введите параметры для парсинга и нажмите "Загрузка вакансий"
